@@ -1,2 +1,1 @@
-# ssm-seoul-tutorial
-![ssm-seoul](ssm-seoul.jpg)
+ssm seoul tutorial
